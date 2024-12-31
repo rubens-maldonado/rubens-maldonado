@@ -25,8 +25,8 @@ Atualmente, continuo em busca de aprendizado contínuo, explorando novas tecnolo
 ## Projetos Principais
 
 Confira alguns dos meus projetos:
-- [Get Next Line](https://github.com/rubens-maldonado/get_next_line)
-- [libft](https://github.com/rubens-maldonado/libft)
-- [Printf](https://github.com/rubens-maldonado/printf)
+- [Get Next Line](https://github.com/rubens-maldonado/GNL)
+- [libft](https://github.com/rubens-maldonado/LIBFT)
+- [Printf](https://github.com/rubens-maldonado/PRINTF)
 
 Sinta-se à vontade para me contactar através do [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-maldonado) ou [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521999038373)
