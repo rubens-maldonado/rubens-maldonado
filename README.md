@@ -29,5 +29,6 @@ Confira alguns dos meus projetos:
 - [Get Next Line](https://github.com/rubens-maldonado/GNL)
 - [libft](https://github.com/rubens-maldonado/LIBFT)
 - [Printf](https://github.com/rubens-maldonado/PRINTF)
+- [Minitalk](https://github.com/rubens-maldonado/Minitalk)
 
 Sinta-se à vontade para me contactar através do [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-maldonado), [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521999038373) ou [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubens-maldonado.github.io/portfolio-/#)
