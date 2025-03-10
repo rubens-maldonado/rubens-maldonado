@@ -28,8 +28,7 @@ Atualmente, continuo em busca de aprendizado contínuo, explorando novas tecnolo
 
 Confira alguns dos meus projetos:
 - [Get Next Line](https://github.com/rubens-maldonado/GNL)
-- [libft](https://github.com/rubens-maldonado/LIBFT)
-- [Printf](https://github.com/rubens-maldonado/PRINTF)
+- [Minishell](https://github.com/rubens-maldonado/minishell)
 - [Minitalk](https://github.com/rubens-maldonado/Minitalk)
 - [So_Long](https://github.com/rubens-maldonado/SO_LONG)
 - [Push_Swap](https://github.com/rubens-maldonado/PUSH_SWAP)
